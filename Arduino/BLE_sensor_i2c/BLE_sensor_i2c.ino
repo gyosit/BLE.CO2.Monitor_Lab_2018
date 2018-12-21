@@ -1,4 +1,10 @@
 /*
+ * Copyright (c) 2018 JKsoft
+ * Released under the MIT license
+ * https://github.com/junichikatsu/CDM7160/blob/master/library.properties
+ */
+
+/*
     Video: https://www.youtube.com/watch?v=oCMOYS71NIU
     Based on Neil Kolban example for IDF: https://github.com/nkolban/esp32-snippets/blob/master/cpp_utils/tests/BLE%20Tests/SampleNotify.cpp
     Ported to Arduino ESP32 by Evandro Copercini
